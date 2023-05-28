@@ -5,24 +5,25 @@
 .container{
   width: 100%;
   float: left;
+  border:solid 1px red;
 }
 .slideshow-wrapper {
   width: 100%;
-  height: 100vh;
+  height: 90vh;
   background-color: #000;
 }
 
 .slide {
   position: absolute;
   width: 100%;
-  height: 100%;
+  height: 90vh;
   transition: opacity 1s;
   background-color: #000;
 }
 
 .slide img {
   opacity: 0.6;
-  height: 100%;
+  height: 90vh;
   width: 100%;
   object-fit: cover;
 }
@@ -50,10 +51,12 @@
 
 .left-arrow {
   left: 0;
+  height:90vh;
 }
 
 .right-arrow {
   right: 0;
+  height:90vh;
 }
 
 .line {
