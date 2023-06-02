@@ -81,15 +81,3 @@
   transform: rotate(20deg) translateY(-0.35rem);
 }
 
-.play-pause {
-  cursor: pointer;
-  position: absolute;
-  bottom: 5%;
-  left: 50%;
-  transform: translateX(-50%);
-}
-
-.play-pause i {
-  color: #ffffff;
-  font-size: 50px;
-}
