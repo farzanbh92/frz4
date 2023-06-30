@@ -55,7 +55,7 @@
 }
 
 .flex-container-1{
-    border:solid 1px green;
+    
     width:100%;
     height:700px;
     float:left;
@@ -86,7 +86,7 @@
     font-size: 18px;
 }
 .flex-container-2{
-    border:solid 1px blue;
+  
     width:100%;
     height:700px;
     float:left;
@@ -119,7 +119,7 @@
     float: right;
 }
 .flex-container-3{
-    border:solid 1px brown;
+ 
     width:100%;
     height:800px;
     float:left;
@@ -150,7 +150,7 @@ margin-top: 15px;
     margin-top:15px;
 }
 .button-container button{
-    background-color: rgba(20,200 ,20, 1);
+   
     width: 100%;
     border-radius: 2vw;
     height:5vw;
